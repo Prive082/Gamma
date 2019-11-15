@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image: url('../imgs/big-ben-bridge-castle-city-460672.jpg');
+    background-size:cover;  
+    height:80vh;
+}
+
+span.text-uppercase {
+    color: green;
+}
