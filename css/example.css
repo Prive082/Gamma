@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Open+Sans&display=swap');
+.container-fluid{
+    background-color: #F9C552;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4{
+    font-family: 'Bebas Neue', cursive;
+}
+.jumbotron{
+    background-image: url('../imgs/Hug.jpg');
+    background-size:cover;  
+    height:80vh;
+}
+
+span.text-uppercase {
+    color: whitesmoke;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 24px;
+}
+
+.wdym{
+line-height: 3.428571;
+background-color: #BC4B2B;
+}
